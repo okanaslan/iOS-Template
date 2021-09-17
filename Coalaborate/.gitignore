@@ -1,0 +1,7 @@
+/Pods
+**/xcuserdata
+**/xcshareddata
+GoogleService-Info.plist
+*.xuserstate
+*.xcworkspacedata
+.DS_Store
